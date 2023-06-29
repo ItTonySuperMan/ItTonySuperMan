@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- [博客](https://www.baidu.com)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ItTonySuperMan&show_icons=true&theme=transparent)
 <!--
 **ItTonySuperMan/ItTonySuperMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
